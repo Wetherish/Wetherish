@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bartosz Kozłowski
-- 👀 I’m interested in ML 
+- 👀 I’m interested in Unity
 - 🌱 I’m currently learning AI, python, C++, C#, GameDev  
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Pirecat
 - 📫 How to reach me bartosz.kozlowski.contact@gmail.com
 
 <!---
