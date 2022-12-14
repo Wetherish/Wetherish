@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bartosz Kozłowski
 - 👀 I’m interested in ML 
-- 🌱 I’m currently learning AI, python, C++, C#  
+- 🌱 I’m currently learning AI, python, C++, C#, GameDev  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bartosz.kozlowski.contact@gmail.com
 
