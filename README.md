@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bartosz Kozłowski
-- 👀 I’m interested in C#, C++, .Net 
-- 🌱 I’m currently learning AI, python, C++, C#,
-- 💞️ I’m looking to collaborate on Pirecat
+- 👀 I'm a student of Telecommunications at the Wrocław University of Technology
+- 🌱 I’m currently learning AI, java, C++, C#,
+- 💞️ Currently working on a group web application project as full stack (java spring for Backend) and (react for Frontend)
 - 📫 How to reach me bartosz.kozlowski.contact@gmail.com
